@@ -57,6 +57,8 @@ class ProxyConfig:
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=Trick_mobil&base64=false"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://www.v2nodes.com/subscriptions/country/all/?key=D783FDC4E61A2CF"),
+            ChannelConfig("https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt"),
             ChannelConfig("https://t.me/s/FreeV2rays"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),

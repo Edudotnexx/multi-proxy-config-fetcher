@@ -54,6 +54,7 @@ class ProxyConfig:
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         initial_urls = [
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=poroxybaz&base64=true"),
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=Trick_mobil&base64=false"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
@@ -65,7 +66,6 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/IP_CF_Config"),
             ChannelConfig("https://t.me/s/shadowproxy66"),
             ChannelConfig("https://t.me/s/poroxybaz"),
-            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=poroxybaz&base64=false"),
            # ChannelConfig("https://t.me/s/proxy_shadosocks"),
            # ChannelConfig("https://t.me/s/meli_proxyy"),
            # ChannelConfig("https://t.me/s/DirectVPN"),

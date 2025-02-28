@@ -14,7 +14,7 @@ This project automatically fetches and updates various proxy configurations from
 
 You can directly access the latest configurations through this URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/Edudotnexx/multi-proxy-config-fetcher/refs/heads/EmadT3ch/configs/proxy_configs.txt
 ```
 
 ## Channel and URL Performance

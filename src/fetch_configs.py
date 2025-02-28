@@ -301,11 +301,11 @@ def save_configs(configs: List[str], config: ProxyConfig):
     try:
         os.makedirs(os.path.dirname(config.OUTPUT_FILE), exist_ok=True)
         with open(config.OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            header = """//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+            header = """//profile-title: base64:8J2XmPCdl7rwnZeu8J2XsfCdl6fwnZ+v8J2XsPCdl7UgLSDwnZem8J2YgvCdl68=
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
+//support-url: https://t.me/Emadt3ch
+//profile-web-page-url: https://t.me/Emadt3ch
 
 """
             f.write(header)

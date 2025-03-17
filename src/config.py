@@ -56,7 +56,7 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
-            ChannelConfig("https://www.v2nodes.com/subscriptions/country/all/?key=D783FDC4E61A2CF"),
+            ChannelConfig("https://t.me/s/ersalprokxi"),
             ChannelConfig("https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt"),
             ChannelConfig("https://www.v2nodes.com/subscriptions/country/all/?key=FBAB0DC9F5EE588"),
             ChannelConfig("https://t.me/s/vpn_sina81"),

@@ -82,7 +82,7 @@ class ProxyConfig:
             # ChannelConfig("https://t.me/s/VlessConfig"),
            ChannelConfig("https://t.me/s/DailyV2RY"),
            ChannelConfig("https://t.me/s/ShadowsocksM"),
-           ChannelConfig("https://t.me/s/v2rayngvpn"),
+           ChannelConfig("https://t.me/s/v2ray_configs_pool"),
             # ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
         ]
 

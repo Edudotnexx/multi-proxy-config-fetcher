@@ -64,9 +64,9 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/IP_CF_Config"),
             ChannelConfig("https://t.me/s/shadowproxy66"),
             ChannelConfig("https://t.me/s/poroxybaz"),
-            ChannelConfig("https://t.me/s/V2ray_6"),
-            ChannelConfig("https://t.me/s/acccrdNet"),
-            ChannelConfig("https://t.me/s/ISVvpn"),
+           # ChannelConfig("https://t.me/s/V2ray_6"),
+           # ChannelConfig("https://t.me/s/acccrdNet"),
+           # ChannelConfig("https://t.me/s/ISVvpn"),
             ChannelConfig("https://t.me/s/V2rayPort"),
             
            # ChannelConfig("https://t.me/s/proxy_shadosocks"),

@@ -75,14 +75,14 @@ class ProxyConfig:
            # ChannelConfig("https://t.me/s/VmessProtocol"),
           #  ChannelConfig("https://t.me/s/ViProxys"),
            # ChannelConfig("https://t.me/s/heyatserver"),
-           # ChannelConfig("https://t.me/s/vpnfail_vless"),
-          #  ChannelConfig("https://t.me/s/Hope_Net"),
+           ChannelConfig("https://t.me/s/vpnfail_vless"),
+           ChannelConfig("https://t.me/s/Hope_Net"),
             # ChannelConfig("https://t.me/s/vlessh"),
             # ChannelConfig("https://t.me/s/V2ray_Alpha"),
             # ChannelConfig("https://t.me/s/VlessConfig"),
-           # ChannelConfig("https://t.me/s/DailyV2RY"),
-           # ChannelConfig("https://t.me/s/ShadowsocksM")
-            # ChannelConfig("https://t.me/s/v2rayngvpn")
+           ChannelConfig("https://t.me/s/DailyV2RY"),
+           ChannelConfig("https://t.me/s/ShadowsocksM"),
+           ChannelConfig("https://t.me/s/v2rayngvpn"),
             # ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
         ]
 
